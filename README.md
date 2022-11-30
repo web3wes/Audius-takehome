@@ -3,7 +3,7 @@
 This repo is source code my Audius Take home assement and has the following feature:
 
 
-- Phantom wallet connection using Anchor wallet (using the app will require test sol devnet)
+- Phantom wallet connection using Anchor wallet (using the app will requires test sol on devnet)
 - An input to allow adding IPFS CIDs
 - The ability to search by a given ID and recive a CID in return
 
@@ -12,7 +12,7 @@ This repo is source code my Audius Take home assement and has the following feat
 
 
 To get started 🛫:
-- Run the app locally, by cloning the repo and running yarn install in the app directiry
+- Run the app locally, by cloning the repo,  running yarn install, and npm run dev in the app directiry
 or
 - Navigate to https://trakr-seven.vercel.app/ 
 
