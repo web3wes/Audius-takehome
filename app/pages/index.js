@@ -55,7 +55,7 @@ const Home = () => {
             <div className={styles.mainContainer}>
                 <Loading loading={loading}>
                     
-                    <TrackSection title="Active Tracks" tracks={activeTracks} change={inputData => setInput(inputData)} action={markTrack} />
+                    <TrackSection title="Active Tracks" tracks={activeTracks} action={markTrack} />
 
                     <TrackSection title="Inactive Tracks" tracks={inactiveTracks}/>
                 </Loading>
