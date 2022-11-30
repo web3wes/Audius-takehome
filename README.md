@@ -7,6 +7,9 @@ This repo is source code my Audius Take home assement and has the following feat
 - An input to allow adding IPFS CIDs
 - The ability to search by a given ID and recive a CID in return
 
+</br>
+</br>
+
 
 To get started 🛫:
 - Run the app locally, by cloning the repo and running yarn install in the app directiry
@@ -17,7 +20,8 @@ From there you should see the option to select a wallet (the app was tested usin
 
 After initalizing, you should be presented with an empty list (0 active tracks, and 0 inactive tracks)
 
-
+</br>
+</br>
 
 Adding a CID 🆔: 
  
@@ -25,7 +29,8 @@ Adding a new CID to the track list is relatively straightfoward. Copy a CID, pas
 
 You should also see an alert informing you of a the track ID. Copy this in order to use it in the search section. 
 
-
+</br>
+</br>
 
 
 Searching by ID 🔎:
@@ -36,12 +41,18 @@ Paste the ID in the search bar selecting search. This should result in seeing on
 
 That's about it! Enjoy keeping track of well... tracks to your hearts content.  
 
+</br>
+</br>
 
 Known issues ⁇ :
 - Pressing enter prompts the 'add' flow, but this should be a pretty low effort fix 
 - Text isn't enclosed in divs neatly
 - App is not currently repsonsive
 - Index 0 occastionally does not return accurate search results
+
+
+</br>
+</br>
 
 
 What I would upgrade 🛠:
@@ -54,11 +65,13 @@ What I would upgrade 🛠:
 
 There are other things I'd be interested in such as liking and sharing others tracks, but they are outisde of the scope of this assignment. 
 
+</br>
+</br>
 
-
-Conclusion :
+Conclusion ✅:
 
 Thank you very much for presenting this challenge and for taking to time to review my work. Please let me know if you have any questions! I'd be happy to follow up about anything. 
 
+</br>
 Cheers,
 Wes
